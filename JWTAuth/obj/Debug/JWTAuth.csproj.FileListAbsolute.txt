@@ -1,0 +1,11 @@
+C:\Users\CHARLES\Documents\Visual Studio 2017\Projects\YouCheckout\JWTAuth\bin\Debug\JWTAuth.dll
+C:\Users\CHARLES\Documents\Visual Studio 2017\Projects\YouCheckout\JWTAuth\bin\Debug\JWTAuth.pdb
+C:\Users\CHARLES\Documents\Visual Studio 2017\Projects\YouCheckout\JWTAuth\bin\Debug\JWT.dll
+C:\Users\CHARLES\Documents\Visual Studio 2017\Projects\YouCheckout\JWTAuth\bin\Debug\System.Web.Http.dll
+C:\Users\CHARLES\Documents\Visual Studio 2017\Projects\YouCheckout\JWTAuth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CHARLES\Documents\Visual Studio 2017\Projects\YouCheckout\JWTAuth\bin\Debug\System.Web.Http.xml
+C:\Users\CHARLES\Documents\Visual Studio 2017\Projects\YouCheckout\JWTAuth\obj\Debug\JWTAuth.csproj.CoreCompileInputs.cache
+C:\Users\CHARLES\Documents\Visual Studio 2017\Projects\YouCheckout\JWTAuth\obj\Debug\JWTAuth.csproj.CopyComplete
+C:\Users\CHARLES\Documents\Visual Studio 2017\Projects\YouCheckout\JWTAuth\obj\Debug\JWTAuth.dll
+C:\Users\CHARLES\Documents\Visual Studio 2017\Projects\YouCheckout\JWTAuth\obj\Debug\JWTAuth.pdb
+C:\Users\CHARLES\Documents\Visual Studio 2017\Projects\YouCheckout\JWTAuth\obj\Debug\JWTAuth.csprojAssemblyReference.cache
