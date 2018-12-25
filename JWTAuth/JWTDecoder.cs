@@ -5,7 +5,7 @@ using System.Web.Script.Serialization;
 using JWT;
 using StakersClub.API.Classes;
 
-namespace StakersClubAPI.Classes
+namespace JWTAuth
 {
     /// <summary>
     /// A class to decode the authentication token 
