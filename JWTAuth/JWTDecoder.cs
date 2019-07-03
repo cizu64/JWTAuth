@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Web.Configuration;
 using System.Web.Script.Serialization;
 using JWT;
-using StakersClub.API.Classes;
 
 namespace JWTAuth
 {
